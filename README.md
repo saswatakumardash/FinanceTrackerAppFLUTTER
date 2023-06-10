@@ -24,4 +24,20 @@ OTHER USEFUL PAGES TO TRACK YOUR FINANCE:
 ![6112f7c0-c7c3-43b5-9d58-aaa455476c1f](https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/e3590a17-6a8d-4850-b885-2aebf018285e)
 ![e2ec3b97-5c4d-4d7f-903c-878cb212e442](https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/bba2b122-11a7-4eb2-9159-0da5d2761614)
 
+## Chrome Web 
+Login Page:
+
+<img width="1358" alt="Screenshot 2023-06-11 at 4 47 19 AM" src="https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/39673642-31e8-41e6-a9f1-71ca47ecd6d6">
+
+Homepage:
+<img width="1358" alt="Screenshot 2023-06-11 at 4 48 51 AM" src="https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/f3286084-cfd4-4d31-9882-68f910d30691">
+
+AccountPage:
+<img width="1358" alt="Screenshot 2023-06-11 at 4 49 39 AM" src="https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/1deb2ed9-43a5-4c5b-8dc2-eeab29566975">
+
+Other Pages that Track your Finance:-
+
+<img width="1358" alt="Screenshot 2023-06-11 at 4 49 12 AM" src="https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/4007e9c3-6a9e-42ad-9b7f-813b4edb0dc0">
+<img width="1358" alt="Screenshot 2023-06-11 at 4 49 20 AM" src="https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/7d660c7e-e187-4df4-90b3-62c3cc19a26c">
+
 
