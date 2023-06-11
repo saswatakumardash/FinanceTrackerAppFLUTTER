@@ -1,4 +1,5 @@
 # FINANCE TRACKER APP
+## HACKATHON BY 21BPS1460 SASWATA KUMAR DASH
 #### MADE BY SKD USING FLUTTER
 ###### IOS SCREENSHOTS
 <img width="363" alt="Screenshot 2023-06-11 at 4 25 27 AM" src="https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/07ae75cc-155e-43b5-bbed-c1aab805e51b">
