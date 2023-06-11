@@ -1,6 +1,14 @@
 # FINANCE TRACKER APP
 ## HACKATHON BY 21BPS1460 SASWATA KUMAR DASH
 #### MADE BY SKD USING FLUTTER
+## ANDROID REAL TIME APK
+![image](https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/b7f4ad5b-3440-4997-b873-030113cbd3f0)
+![image](https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/7de838ad-e364-4c34-8c24-d3c0dd483e61)
+![image](https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/9ff1f062-30ed-4d0e-bf82-ce7d6bcffaf0)
+![image](https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/5a49fa02-c3a5-4c3a-b768-107774edd4ad)
+![image](https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/9e772683-39ce-405a-bbce-7e9c4e0128db)
+
+
 ###### IOS SCREENSHOTS
 <img width="363" alt="Screenshot 2023-06-11 at 4 25 27 AM" src="https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/07ae75cc-155e-43b5-bbed-c1aab805e51b">
 
@@ -44,4 +52,5 @@ Other Pages that Track your Finance:-
 
 Backend not yet completed:
 <img width="1375" alt="Screenshot 2023-06-11 at 5 35 30 AM" src="https://github.com/SKD01HASH/FinanceTrackerAppFLUTTER/assets/94286342/4ba60ba6-e6a9-4670-9dfd-52960b514c6f">
+
 
